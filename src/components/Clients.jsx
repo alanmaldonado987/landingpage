@@ -6,7 +6,7 @@ const Clients = () => {
       <h1 className="text-2xl font-medium text-gray-800 text-center">
         Trusted by greatest companies
       </h1>
-      <div className="flex flex-col md:flex-row items-center flex-wrap gap-20">
+      <div className="flex flex-col md:flex-row items-center flex-wrap gap-20 ">
         <img src="google.png" className="w-40" />
         <img src="airbnb.png" className="w-40" />
         <img src="amazon.png" className="w-40" />
