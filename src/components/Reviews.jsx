@@ -6,18 +6,17 @@ const Reviews = () => {
   return (
     <div className="p-8 flex flex-col gap-8 bg-gray-100">
       <h1 className="text-[40px] text-center font-black">
-        Let’s hear What they says
+        Escucha lo que dicen nuestros clientes
       </h1>
       <div className="flex justify-center gap-4">
         <span className="text-5xl text-primary">
           <RiDoubleQuotesL />
         </span>
         <p className="max-w-2xl text-center text-gray-500">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus vel
-          lobortis tincidunt fames quisque mauris at diam. Nullam morbi ipsum
-          turpis amet id posuere torto quis nostrud exercitation ullamco laboris
-          nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore.
+          Trabajar con este equipo ha sido una experiencia increíble. Su atención
+          al detalle y su compromiso con la excelencia superaron todas nuestras
+          expectativas. El diseño final no solo es visualmente impresionante,
+          sino que también mejoró significativamente la experiencia de nuestros usuarios.
         </p>
         <span className="text-5xl text-primary">
           <RiDoubleQuotesR />
@@ -49,7 +48,7 @@ const Reviews = () => {
         <div>
           <h3 className="text-center text-[24px] font-bold">Ricky Aprilia</h3>
           <h5 className="text-center text-[20px] text-gray-500">
-            Founder of Varibo
+            Fundador de Varibo
           </h5>
         </div>
       </div>

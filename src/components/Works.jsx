@@ -5,11 +5,11 @@ const Works = () => {
     <div id="aboutUs" className="p-8 xl:p-20">
       <div className="mb-8">
         <h1 className="text-[40px] font-black">
-          We create world-class digital products
+          Creamos productos digitales de clase mundial
         </h1>
         <p className="text-xl text-gray-500">
-          By information about design the world to the best instructors, heatc
-          helping By information
+          Brindamos información sobre diseño al mundo con los mejores instructores,
+          ayudando a transformar ideas en realidad
         </p>
       </div>
       {/* Works */}
@@ -19,12 +19,11 @@ const Works = () => {
             src="work1.png"
             className="w-full h-[600px] object-cover rounded-3xl"
           />
-          <p className="text-gray-500">App Design - June 20, 2022</p>
-          <h3 className="text-2xl font-bold">App Redesign</h3>
+          <p className="text-gray-500">Diseño de App - 20 de Junio, 2022</p>
+          <h3 className="text-2xl font-bold">Rediseño de Aplicación</h3>
           <p className="text-gray-500">
-            By information about design the world to the best instructors, heatc
-            helping By information about design the world to the best
-            instructors, heatc helping
+            Brindamos información sobre diseño al mundo con los mejores instructores,
+            ayudando a transformar ideas en productos digitales excepcionales
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -33,9 +32,9 @@ const Works = () => {
               src="work2.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
-            <p className="text-gray-500">App Design - June 20, 2022</p>
+            <p className="text-gray-500">Diseño de App - 20 de Junio, 2022</p>
             <h3 className="text-2xl font-bold">
-              Redesign channel website landng page
+              Rediseño de página de inicio del canal
             </h3>
           </div>
           <div className="flex flex-col gap-4">
@@ -43,9 +42,9 @@ const Works = () => {
               src="work3.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
-            <p className="text-gray-500">App Design - June 20, 2022</p>
+            <p className="text-gray-500">Diseño de App - 20 de Junio, 2022</p>
             <h3 className="text-2xl font-bold">
-              New Locator App For a New Company
+              Nueva App de Localización para Empresa
             </h3>
           </div>
           <div className="flex flex-col gap-4">
@@ -53,9 +52,9 @@ const Works = () => {
               src="work4.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
-            <p className="text-gray-500">App Design - June 20, 2022</p>
+            <p className="text-gray-500">Diseño de App - 20 de Junio, 2022</p>
             <h3 className="text-2xl font-bold">
-              Rental Rooms Web App Platform
+              Plataforma Web de Alquiler de Habitaciones
             </h3>
           </div>
           <div className="flex flex-col gap-4">
@@ -63,9 +62,9 @@ const Works = () => {
               src="work5.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
-            <p className="text-gray-500">App Design - June 20, 2022</p>
+            <p className="text-gray-500">Diseño de App - 20 de Junio, 2022</p>
             <h3 className="text-2xl font-bold">
-              Calendar App for Big SASS Company
+              App de Calendario para Gran Empresa SAAS
             </h3>
           </div>
         </div>

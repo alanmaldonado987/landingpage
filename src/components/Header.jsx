@@ -22,16 +22,16 @@ const Header = () => {
         } top-0 xl:static flex-1 flex flex-col xl:flex-row items-center justify-center gap-10 transition-all duration-500 z-50`}
       >
         <a href="#home" className="">
-          Home
+          Inicio
         </a>
         <a href="#aboutUs" className="">
-          About Us
+          Nosotros
         </a>
         <a href="#services" className="">
-          Services
+          Servicios
         </a>
         <a href="#aboutUs" className="">
-          Products
+          Productos
         </a>
       </nav>
       <button
